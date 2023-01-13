@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @howthep
-- 👀 I’m interested in cli, web
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in bash, web, python
+- I'm a extreme textism
+
+
+
 
 <!---
 howthep/howthep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
