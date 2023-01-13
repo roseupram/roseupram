@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @howthep
 - 👀 I’m interested in bash, web, python
-- I'm a extreme textism
+- I'm a extreme textism, thinking everything can be controlled by text, so my focus is on text.
 
 
 
